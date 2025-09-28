@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.datawrangler",
+    "github.copilot",
+    "github.copilot-chat"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true
+  }
+}

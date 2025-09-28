@@ -1,0 +1,6 @@
+date,region,product,quantity,price
+2025-01-01,North,Product A,10,12.5
+2025-01-02,North,Product B,7,10.0
+2025-01-03,South,Product A,9,12.5
+2025-01-04,West,Product C,3,8.0
+2025-01-05,East,Product A,14,12.5
